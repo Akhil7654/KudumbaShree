@@ -1,0 +1,15 @@
+.table {
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.btn-primary {
+    background-color: cornflowerblue;
+  
+}
+
+.btn-danger {
+    background-color: rgb(236, 104, 104);
+ 
+}
+
