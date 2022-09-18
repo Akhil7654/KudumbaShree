@@ -34,3 +34,8 @@ button.btn:hover
 .card {
     background-color: antiquewhite;
 }
+
+.profile {
+    margin-left: 500px;
+    margin-top: 70px;
+}

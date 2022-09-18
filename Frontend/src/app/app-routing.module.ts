@@ -2,7 +2,6 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { AccountComponent } from './account/account.component';
 import { AddmemberComponent } from './addmember/addmember.component';
-import { AdminhomeComponent } from './adminhome/adminhome.component';
 import { LoanComponent } from './loan/loan.component';
 import { LoginadminComponent } from './loginadmin/loginadmin.component';
 import { MainhomeComponent } from './mainhome/mainhome.component';
@@ -13,7 +12,6 @@ const routes: Routes = [
   {path:'reg',component:UserloginComponent},
   {path:'account',component:AccountComponent},
   {path:'loan',component:LoanComponent},
-  {path:'admin',component:AdminhomeComponent},
   {path:'loginad',component:LoginadminComponent},
   {path:'add',component:AddmemberComponent}
   

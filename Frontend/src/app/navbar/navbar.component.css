@@ -1,5 +1,5 @@
 .navbar .ms-auto{
-    margin-right: 300px;
+    margin-right: 200px;
     
 }
 
@@ -36,7 +36,7 @@
     box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.4);
   }
   .containers:hover .input {
-    width: 300px;
+    width: 250px;
   }
   .containers .input {
     background: transparent;
@@ -51,5 +51,6 @@
   .containers .fas {
     color: #060108;
   }
+  
   
   
